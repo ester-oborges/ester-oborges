@@ -1,4 +1,6 @@
-Analista de Dados em transição de carreira. Minha formação em Design de Interiores (UFRJ) me deu uma base sólida e transferível para o mundo de Dados, com foco em:
+Analista de Dados em transição de carreira.
+
+Minha formação em Design de Interiores (UFRJ) me deu uma base sólida e transferível para o mundo de Dados, com foco em:
 * Organização e Resolução de Problemas.
 * Escuta Ativa e Empatia: Habilidade em interpretar contextos e necessidades para transformá-los em soluções práticas baseadas em informação e bom senso.
 
