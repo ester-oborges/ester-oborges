@@ -1,4 +1,4 @@
-### Hello, world! 
+### Olá! 
 
 Sou **Analista de Dados em transição de carreira**, com formação em Design de Interiores pela UFRJ. Minha experiência prévia contribuiu para o desenvolvimento de um **forte senso de organização visual, hierarquia da informação e experiência do usuário**, aplicados hoje na **diagramação de dashboards e visualização de dados**.
 
