@@ -1,9 +1,10 @@
 ### Olá! 👋
 
-Sou **Analista de Dados em transição de carreira**, com formação em Design de Interiores pela UFRJ. Minha experiência prévia contribuiu para o desenvolvimento de um **forte senso de organização visual, hierarquia da informação e experiência do usuário**, aplicados hoje na **diagramação de dashboards e visualização de dados**.
+Sou Analista de Dados em transição de carreira. Formação em Design de Interiores pela UFRJ — o que na prática significa que dashboards mal organizados me incomodam profissionalmente.
 
-Além do viés técnico, tenho um **perfil sensível ao contexto dos dados**, habilidade construída ao longo da atuação com diferentes perfis de clientes, onde cada projeto exigia escuta ativa, interpretação de necessidades e adaptação a singularidades. Levo essa mesma abordagem para a análise de dados, buscando compreender o **cenário por trás dos números** e comunicar insights de forma clara e relevante.
+Atualmente trabalhando com Python, SQL, Power BI e Looker Studio. Tenho projetos de EDA, modelagem preditiva com Scikit-learn e visualização de dados.
 
-Hoje utilizo **Python e SQL** para exploração, tratamento e análise de dados, e desenvolvo **dashboards em Power BI, Looker Studio e Tableau**, com foco em clareza, eficiência e apoio à tomada de decisão. Tenho interesse em **automação, escalabilidade e Machine Learning**, áreas nas quais venho aprofundando meus estudos.
+Stack:
+`Python` `SQL` `Power` `BI` `Looker` `Studio` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Excel`
 
-Neste GitHub, compartilho projetos, estudos e experimentos que refletem minha transição de carreira e meu desenvolvimento contínuo na área de Dados.
+📍 Florianópolis, SC · Aberta a oportunidades
